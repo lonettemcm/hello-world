@@ -1,2 +1,2 @@
-# hello-world
-First attempt at GitHub.
+# mad-libs
+Simple mad libs game, first try at Github and practicing :)
