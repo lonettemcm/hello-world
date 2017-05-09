@@ -52,5 +52,5 @@ var sentence = '<h2>Meet our hero ' + sillyName + ', a super intelligent ' + pro
 sentence += 'A run-in with the country ' + country + ' leads him to create his alter ego ' + sillyNameTwo + ' a ' + color + ' ' + adjective + ' giant capable of great destruction.';
 sentence += ' He ' + adverb + ' battles the military with his girlfriend ' + sillyNameThree + '. ';
 sentence += 'Eventually it is discovered that our hero\'s long-time colleague ' + sillyNameFour + ', distinguished by his ' + face + ' is trying to turn ' + sillyNameTwo + ' into a weapon, leading to a climactic (if pointless) battle in downtown ' + city + ' with an evil version of the same giant alter-ego called ' + sillyNameSix + '. ';
-sentence += 'Eventually the enemy is subdued by ' + verb + 'ing him with a ' + noun + '. in the final reel, ' + actor + ' appears to propose joining him in a ' + nounTwo + '.';
+sentence += 'Eventually the enemy is subdued by ' + verb + 'ing him with a ' + noun + '. In the final reel, ' + actor + ' appears to propose joining him in a ' + nounTwo + '.';
 document.write(sentence);
