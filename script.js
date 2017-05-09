@@ -46,7 +46,7 @@ var noun = prompt('Please type a noun' + questionsLeft);
 questions -= 1;
 
 alert('Congrats! You made it. Ready for the message?');
-var sentence = "<h2>Meet our her " + sillyName;
-sentence += ' programmer who wanted to use JavaScript to ' + verb;
-sentence += ' the ' + noun + '.</h2>';
+var sentence = '<h2>Meet our hero ' + sillyName + ', a super intelligent ' + profession + '. ';
+sentence += 'A run-in with the country ' + country + ' leads him to create his alter ego ' + sillyNameTwo;
+sentence += '
 document.write(sentence);
